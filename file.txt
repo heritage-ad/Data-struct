@@ -1,0 +1,17 @@
+apple 
+banana 
+orange 
+apple 
+grape 
+banana 
+fruit 
+kiwi 
+pear
+mango
+fruit 
+orange
+lemon 
+lime 
+berry 
+kiwi 
+pear
